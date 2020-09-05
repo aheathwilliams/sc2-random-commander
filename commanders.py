@@ -3,9 +3,10 @@ import json
 import random
 import os
 
+
 def build_commander_list():
     wd = os.path.dirname(__file__)
-    file_name = "cdmers.json"
+    file_name = "cmders.json"
     file_path = os.path.join(wd, file_name)
     with open(file_path, "r") as read_file:
         return json.load(read_file)
