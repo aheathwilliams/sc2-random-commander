@@ -21,7 +21,7 @@ async def random_commander(ctx):
     c = commanders.choose_commander(cs)
 
     embed = discord.Embed(title=c["name"], colour=discord.Colour(
-        0x33cbff), url=c["url"], description=c["description"])
+        0x33cbff), url="https://starcraft2coop.com/commanders/" + c["urlPath"], description=c["description"])
     if "image" in c:
         embed.set_image(url=c["image"])
     if "builds" in c:

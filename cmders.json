@@ -13,109 +13,109 @@
                 "value": "uhhhh"
             }
         ],
-        "url": "https://starcraft2coop.com/commanders/raynor.php"
+        "urlPath": "raynor"
     },
     {
         "name": "Kerrigan",
         "description": "Queen of Blades",
         "buildOrder": "14 Overlord\n14 Macro Hatchery at Rocks\n19 Extractor\n21 Extractor\n24 Macro Hatchery at Rocks\n28 Spawning Pool\n33 Overlord\nKerrigan -> Rocks",
-        "url": "https://starcraft2coop.com/commanders/kerrigan.php"
+        "urlPath": "kerrigan"
     },
     {
         "name": "Artanis",
         "description": "Hierarch of the Daelaam",
         "buildOrder": "Project Power Field\n15 Gateway\n17 Assimilator\n18 Assimilator\nChrono Gateway\n21 Zealot -> Rocks\n24 Zealot\nChrono Nexus\n31 Nexus\n33 Cybernetics Core\n34 Pylon",
-        "url": "https://starcraft2coop.com/commanders/artanis.php",
+        "urlPath": "artanis",
         "image": "https://starcraft2coop.com/images/commanderdata/guides/artanis/artosispylon.jpg"
     },
     {
         "name": "Swann",
         "description": "Chief Engineer",
         "buildOrder": "14 Supply Depot\n16 Factory (4 SCV's)\n18 Billy (4 SCV's)\n18 Billy (4 SCV's)\n21 Command Center (8 SCV's)",
-        "url": "https://starcraft2coop.com/commanders/swann.php"
+        "urlPath": "swann"
     },
     {
         "name": "Zagara",
         "description": "Swarm Broodmother",
         "buildOrder": "9 Extractor\n11 Spawning Pool\n11 Extractor\n11 Overlord\n11 Baneling Nest\n10 Zergling -> Rocks\n12 Zergling -> Rocks\n19 Hatchery",
-        "url": "https://starcraft2coop.com/commanders/zagara.php"
+        "urlPath": "zagara"
     },
     {
         "name": "Vorazun",
         "description": "Matriarch of the Nerazim",
         "buildOrder": "13 Dark Pylon\n15 Assimilator\n16 Assimilator\n18 Gateway\n19 Pylon\n22 Change Rally to Expansion\n23 Cybernetics Core\n27 Shadowguard -> Gas -> Main\n28 Twilight + Warp Gate\n29 Assimilators + Nexus",
-        "url": "https://starcraft2coop.com/commanders/vorazun.php"
+        "urlPath": "vorazun"
     },
     {
         "name": "Karax",
         "description": "Khalai Phase-Smith",
         "buildOrder": "20x Orbital Strike -> Rocks\n15 Nexus\n15 Pylon\n17 Assimilator\n18 Assimilator\n20 Forge\n26 Cannon -> Gas Rock\n32 Cannon -> Gas Rock",
-        "url": "https://starcraft2coop.com/commanders/karax.php"
+        "urlPath": "karax"
     },
     {
         "name": "Abathur",
         "description": "Evolution Master",
         "buildOrder": "14 Overlord\n17 Roach Warren\n20 Spine Crawler\n19 Spine Crawler\n18 Extractor\n17 Extractor\n20 Roach\n22 Overlord\n22 Hatchery\n22 Extractor\n22 Extractor",
-        "url": "https://starcraft2coop.com/commanders/abathur.php"
+        "urlPath": "abathur"
     },
     {
         "name": "Alarak",
         "description": "Highlord of the Tal'darim",
         "buildOrder": "14 Pylon\n15 Assimilator (No Probes)\n18 Pylon (Overcharge)\n20 Nexus\nProbes -> Assimilator\n21 Assimilator\n22 Gateway",
-        "url": "https://starcraft2coop.com/commanders/alarak.php"
+        "urlPath": "alarak"
     },
     {
         "name": "Nova",
         "description": "Dominion Ghost",
         "buildOrder": "14 Refinery\n15 Refinery\n18 Command Center\n19 Barracks\n22 Marines -> Rocks",
-        "url": "https://starcraft2coop.com/commanders/nova.php"
+        "urlPath": "nova"
     },
     {
         "name": "Stukov",
         "description": "Infested Admiral",
         "buildOrder": "15 Overlord\n15 Refinery\n19 Command Center at Rocks\n21 Refinery\n21 Anaerobic Enhancement\n22 Engineering Bay\n22 Overlord\n24 Broodling Gestation\n25 Barracks",
-        "url": "https://starcraft2coop.com/commanders/stukov.php"
+        "urlPath": "stukov"
     },
     {
         "name": "Fenix",
         "description": "Purifier Executor",
         "buildOrder": "15 Pylon\n16 Assimilator\n17 Robotics Facility\n17 Assimilator\n22 Immortal + AI -> Rocks\n26 Pylon\n31 Nexus",
-        "url": "https://starcraft2coop.com/commanders/fenix.php"
+        "urlPath": "fenix"
     },
     {
         "name": "Dehaka",
         "description": "Primal Pack Leader",
         "buildOrder": "23 Extractor\n23 Primal Warden\n25 Extractor\n29 Glevig's Den\n29 2x Zerglings -> Rocks\nPrimal Warden -> Rocks\n31 Primal Hive",
-        "url": "https://starcraft2coop.com/commanders/dehaka.php"
+        "urlPath": "dehaka"
     },
     {
         "name": "Han and Horner",
         "description": "Mercenary Leader and Dominion Admiral",
         "buildOrder": "14 Supply Depot\n17 Command Center\n18 Assault Galleon\n19 Refinery\n20 Refinery\n20 4x Reapers -> Rocks",
-        "url": "https://starcraft2coop.com/commanders/horner.php"
+        "urlPath": "horner"
     },
     {
         "name": "Tychus",
         "description": "Legendary Outlaw",
         "buildOrder": "17 Command Center\n18 Refinery\n19 Refinery\n20 Engineering Bay\n22 2x Turrets -> Rocks",
-        "url": "https://starcraft2coop.com/commanders/tychus.php"
+        "urlPath": "tychus"
     },
     {
         "name": "Zeratul",
         "description": "Dark Prelate",
         "buildOrder": "18 Probe -> Expo\n19 Zoraya Legion\n21 Nexus",
-        "url": "https://starcraft2coop.com/commanders/zeratul.php"
+        "urlPath": "zeratul"
     },
     {
         "name": "Stetmann",
         "description": "Hero Genius (Henius)",
         "buildOrder": "14 Overlord\n14 Extractor (2 drones on completion)\n14 Extractor (2 drones on completion)\n19 Spawning Pool\n18 Lair\n18 2x Zerglings to Expo\n20 Drone\n21 Infestation Pit\n20 Drone\n21 Overlord\nSaturate gasses at 200 minerals\n21 Hive\nSaturate mineral line",
-        "url": "https://starcraft2coop.com/commanders/stetmann.php"
+        "urlPath": "stetmann"
     },
     {
         "name": "Mengsk",
         "description": "Emperor of the Dominion",
         "buildOrder": "13 Bunker Calldown at Expo\n24 Bunker keeping 16 laborers on Main\n25 Unload expo bunker + clear rocks\n28 4 Laborers -> Expo\n30 Enlistment Center with 4 Laborers\n32 Troopers to Laborers to fast-build expo\n32 Bunker Calldown, Unload to Laborer\n38 Refinery with 3 Laborers\n38 Refinery with 3 Laborers\n39 Refinery with 3 Laborers\n41 Refinery with 3 Laborers\n45 Barracks with 8 Laborers\n50 Factory with 8 Laborers\n53 Starport with 8 Laborers\n56 Imperial Witness",
-        "url": "https://starcraft2coop.com/commanders/mengsk.php"
+        "urlPath": "mengsk"
     }
 ]
